@@ -168,7 +168,7 @@ enum fifoMode_type
 	FIFO_THS = 1,
 	FIFO_CONT_TRIGGER = 3,
 	FIFO_OFF_TRIGGER = 4,
-	FIFO_CONT = 5
+	FIFO_CONT = 6
 };
 
 struct gyroSettings
